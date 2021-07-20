@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to make 3d art and bake
 
 ### Connect with me:
-[<img align="left" alt="github.com/Shakedkod" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="github.com/Shakedkod" width="22px" src="./README/Images/shakedkodlogo.jpeg" />][website]
 
 <br>
 
