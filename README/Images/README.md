@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shaked Kodhttps://github.com/rahuldkjain/github-profile-readme-generator</h1>
 <h3 align="center">A game developer and 3d artists!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakedkod&label=Profile%20views&color=0e75b6&style=flat" alt="shakedkod" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakedkod" alt="shakedkod" /></a> </p>
+<!--badges here-->
 
 - 🔭 I’m currently working on [Rails And Potatos](https://open.codecks.io/railsandpotatoes)
 
 - 🌱 I’m currently learning **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://oort-studios.itch.io/](https://oort-studios.itch.io/)
+- 👨‍💻 All of my projects are available at [Oort Studios](https://oort-studios.itch.io/) ITCH for now
 
 - 📫 How to reach me **{this data is unevaluable at this moment}**
 
