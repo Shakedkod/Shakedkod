@@ -1,7 +1,5 @@
 ### Hi there, I'm [ShakedKod][website]👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🔭 I'm currently working on my game [Rails And Potatoes][game_in_proggres]
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to make 3d art and bake
