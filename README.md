@@ -1,6 +1,7 @@
 ### Hi there, I'm [ShakedKod][website]👋
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Shakedkod/Rails_And_Potatoes?logo=GitHub&style=for-the-badge)
+![GitHub](https://img.shields.io/github/commit-activity/m/Shakedkod/Rails_And_Potatoes?logo=GitHub&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br>
 
 - 🔭 I'm currently working on my game [Rails And Potatoes][game_in_proggres]
@@ -68,4 +69,4 @@ Here are some ideas to get you started:
 [website]: https://github.com/Shakedkod
 [game_in_proggres]: https://open.codecks.io/railsandpotatoes
 [vscode]: https://code.visualstudio.com/
-[GitHub commit activity]: https://github.com/Shakedkod/Rails_And_Potatoes
+[GitHub]: https://github.com/Shakedkod
