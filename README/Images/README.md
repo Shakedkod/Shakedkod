@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaked Kodhttps://github.com/rahuldkjain/github-profile-readme-generator</h1>
+<h1 align="center">Hi 👋, I'm Shaked Kod</h1>
 <h3 align="center">A game developer and 3d artists!</h3>
 
 <!--badges here-->
