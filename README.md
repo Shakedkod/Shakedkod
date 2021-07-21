@@ -17,7 +17,7 @@
 
 ---
 
-<img align="left" alt="ShakedKod's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shakedkod&show_icons=true&hide_border=true">
+<img align="left" alt="ShakedKod's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shakedkod&hide=prs,issues,contribs&show_icons=true&hide_border=true&count_private=true&theme=highcontrast">
 
 <br>
 <br>
