@@ -17,6 +17,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [print ("Hello World")](https://dev.to/shakedkod/print-hello-world-386e)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
