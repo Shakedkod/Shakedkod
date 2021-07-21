@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaked Kod</h1>
 <h3 align="center">A game developer and 3d artists!</h3>
 
-<!--badges here-->
+<a href="https://oort-studios.itch.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="ITCH" height="30" width="75"/></a>
 
 - 🔭 I’m currently working on [Rails And Potatos](https://open.codecks.io/railsandpotatoes)
 
