@@ -1,55 +1,32 @@
-### Hi there, I'm [ShakedKod][website]👋
+<h1 align="center">Hi 👋, I'm Shaked Kod</h1>
+<h3 align="center">A game developer and 3d artists!</h3>
 
-![GitHub](https://img.shields.io/github/commit-activity/m/Shakedkod/Rails_And_Potatoes?logo=GitHub&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-<img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/>
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
-<img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-![ITCH](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-<br>
+<a href="https://oort-studios.itch.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="ITCH" height="30" width="75"/></a>
 
-- 🔭 I'm currently working on my game [Rails And Potatoes][game_in_proggres]
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to make 3d art and bake
+- 🔭 I’m currently working on [Rails And Potatos](https://open.codecks.io/railsandpotatoes)
 
-### Connect with me:
-[<img align="left" alt="github.com/Shakedkod" width="22px" src="./README/Images/shakedkodlogo.jpeg" />][website]
+- 🌱 I’m currently learning **everything 🤣**
 
-<br>
-<br>
+- 👨‍💻 All of my projects are available at [Oort Studios](https://oort-studios.itch.io/) ITCH for now
 
----
+- 📫 How to reach me **{this data is unevaluable at this moment}**
 
-<img align="left" alt="ShakedKod's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shakedkod&hide=prs,issues,contribs&show_icons=true&hide_border=true&count_private=true&theme=highcontrast&show_owner=true">
+- ⚡ Fun fact **I love to bake and cook**
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/shakedkod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shakedkod" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="ShakedKod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedkod&theme=highcontrast">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedkod&show_icons=true&locale=en&theme=highcontrast" alt="shakedkod" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakedkod&show_icons=true&locale=en&theme=highcontrast" alt="shakedkod" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakedkod&theme=highcontrast" alt="shakedkod" /></p>
+
 <br>
 
 ### 📕 Latest Blog Posts
@@ -57,23 +34,3 @@
 - [print ("Hello World")](https://dev.to/shakedkod/print-hello-world-386e)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
-**Shakedkod/Shakedkod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[website]: https://github.com/Shakedkod
-[game_in_proggres]: https://open.codecks.io/railsandpotatoes
-[vscode]: https://code.visualstudio.com/
-[GitHub]: https://github.com/Shakedkod
-[ITCH]: https://oort-studios.itch.io/
