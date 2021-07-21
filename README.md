@@ -26,11 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakedkod&show_icons=true&locale=en&theme=highcontrast" alt="shakedkod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakedkod&theme=highcontrast" alt="shakedkod" /></p>
-
-<br>
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [print ("Hello World")](https://dev.to/shakedkod/print-hello-world-386e)
-<!-- BLOG-POST-LIST:END -->
-
