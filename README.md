@@ -18,8 +18,7 @@
 
 ---
 
-<img align="left" alt="ShakedKod's GitHub Stats" src="github-readme-stats-delta-two-82.vercel.app
-/api?username=Shakedkod&hide=prs,issues,contribs&show_icons=true&hide_border=true&count_private=true&theme=highcontrast&show_owner=true">
+<img align="left" alt="ShakedKod's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shakedkod&hide=prs,issues,contribs&show_icons=true&hide_border=true&count_private=true&theme=highcontrast&show_owner=true">
 
 <br>
 <br>
@@ -30,8 +29,7 @@
 <br>
 <br>
 
-<img align="left" alt="ShakedKod's Top Languages" src="github-readme-stats-delta-two-82.vercel.app
-/api/top-langs/?username=Shakedkod&theme=highcontrast">
+<img align="left" alt="ShakedKod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedkod&theme=highcontrast">
 
 <br>
 <br>
