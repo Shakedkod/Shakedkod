@@ -27,10 +27,19 @@
 <br>
 <br>
 <br>
-<!-- <br>
-<br> -->
 
 <img align="left" alt="ShakedKod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedkod&theme=highcontrast">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" alt="ShakedKod's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shakedkod">
 
 <br>
 <br>
