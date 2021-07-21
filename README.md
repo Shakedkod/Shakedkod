@@ -1,5 +1,8 @@
 ### Hi there, I'm [ShakedKod][website]👋
 
+https://img.shields.io/github/commit-activity/m/Shakedkod/Rails_And_Potatoes?style=for-the-badge
+<br>
+
 - 🔭 I'm currently working on my game [Rails And Potatoes][game_in_proggres]
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to make 3d art and bake
