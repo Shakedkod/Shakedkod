@@ -38,17 +38,6 @@
 <br>
 <br>
 <br>
-
-<img align="left" alt="ShakedKod's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shakedkod">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
