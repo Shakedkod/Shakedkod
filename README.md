@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👨‍💻 All of my projects are available at [Oort Studios](https://oort-studios.itch.io/) ITCH for now
+- 👨‍💻 All of my projects are available at [Oort Studios Site](https://OortStudios.github.com/)
 
 - 📫 How to reach me **{this data is unevaluable at this moment}**
 
