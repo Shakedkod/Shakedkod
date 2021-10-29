@@ -21,3 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakedkod&show_icons=true&locale=en&theme=highcontrast" alt="shakedkod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakedkod&theme=highcontrast" alt="shakedkod" /></p>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+<h3 align="center"> Here is some of my 3d Art: </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakedkod&show_icons=true&locale=en&theme=highcontrast" alt="shakedkod" /></p>
