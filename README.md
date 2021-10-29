@@ -25,4 +25,6 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 <h3 align="center"> Here is some of my 3d Art: </h3>
-<p><img align="left" src="./README/Images/images/image test 3.png" alt="oort" /></p>
+<p><img align="left" src="./README/Images/images/image test 3.png" alt="buldings with a night sky" /></p>
+<p><img align="left" src="./README/Images/images/shakedkod logo.png" alt="my logo that I made" /></p>
+<p><img align="left" src="./README/Images/images/test - test.png" alt="pipes n' staff" /></p>
