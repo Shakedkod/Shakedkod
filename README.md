@@ -25,7 +25,7 @@
     </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://RadioBenZvi.github.io/"><img src="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/images/home/banner.jpg" width="1000" height="300"/></a>
 </div>
 
 ---
