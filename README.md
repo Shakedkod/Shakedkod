@@ -44,37 +44,37 @@ I am a developer and a student. Currently doing a lot of stuff at once, one of t
     <a href="https://python.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://www.w3schools.com/CPP/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://docs.microsoft.com/dotnet/csharp/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://www.java.com/en/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://dart.dev">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://flutter.dev">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://blender.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://dotnet.microsoft.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://github.com/ShakedKod">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://godotengine.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://git-scm.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://python.org">
+    <a href="https://github.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
     </a>&nbsp;
 </div>
