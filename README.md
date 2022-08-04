@@ -10,7 +10,7 @@
     <a href="https://www.youtube.com/channel/UC201HUhnv757FkBdZOJZfIg">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/qyO75u080WUSCzn">
+    <a href="https://twitter.com/m_ShakedKod">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
