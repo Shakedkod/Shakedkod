@@ -65,9 +65,6 @@ I am a developer and a student. Currently doing a lot of stuff at once, one of t
     <a href="https://dotnet.microsoft.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>
     </a>&nbsp;
-    <a href="https://github.com/ShakedKod">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
-    </a>&nbsp;
     <a href="https://godotengine.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>
     </a>&nbsp;
