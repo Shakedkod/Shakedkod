@@ -7,7 +7,7 @@
     <a href="https://www.github.com/ShakedKod">
         <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UC201HUhnv757FkBdZOJZfIg">
+    <a href="https://OortStudios.github.io/ShakedKod/youtube">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/m_ShakedKod">
