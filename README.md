@@ -4,11 +4,11 @@
 <br>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.github.com/ShakedKod">
-        <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="https://OortStudios.github.io/ShakedKod/youtube">
+    <a href="https://ShakedKod.github.io/Youtube">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://ShakedKod.github.io/">
+        <img src="img.shields.io/badge/Website-yellow?style=for-the-badge&logoColor=white" alt="Website Badge"/>
     </a>
     <a href="https://twitter.com/m_ShakedKod">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
