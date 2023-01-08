@@ -33,9 +33,9 @@
 ### 👨‍💻 About Me:
 I am a developer and a student. Currently doing a lot of stuff at once, one of the things I do is making podcast and 3d art.
 
-- 🔭 I’m working on the [Radio Ben Zvi Website](https://RadioBenZvi.github.io/) and a secret that will be revealed in the future.
+- 🔭 I’m working on [ProjectTime](https://shakedkod.tech/ProjectTime) and a secret that will be revealed in the future.
 
-- 🌱 I'm currently learning C++ and C#.
+- 🌱 I'm currently learning C++.
 
 <br>
 
