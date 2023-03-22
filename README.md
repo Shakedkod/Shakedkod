@@ -1,7 +1,6 @@
-<h1 align="center" style="font-size: 50px; color: #FFAE00;">I'm ShakedKod. </h1>
-<div id="views on github" align="center">
-    <img src="https://komarev.com/ghpvc/?username=shakedkod&style=flat-square&color=yellow" alt=""/>
-</div>
+<h1 align="center" style="font-size: 50px; color: #FFAE00;">I'm ShakedKod.<br> 
+<img src="https://komarev.com/ghpvc/?username=shakedkod&style=flat-square&color=yellow" alt=""/>
+</h1>
 
 <h2 style="color: #79FFF8"> 💫 About Me: </h2>
 I'm a 16 year old software developer and designer.<br>
