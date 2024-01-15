@@ -19,7 +19,7 @@ I specialize in C++ and Flutter.
 ⚡ Fun fact: I make podcast and 3D models in blender<br>
 🎮 To see a project of mine go to the pip package [Easier Pygame](https://pypi.org/project/easier-pygame/) in the [github repository](https://github.com/OortStudios/EasierPygame)
 
-[![barrier](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/Shakedkod/Shakedkod)
+[![barrier](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/Shakedkod)
 <br>
 
 <h2 align="center" style="color: #79FFF8">🌐 Socials</h2>
@@ -41,7 +41,7 @@ I specialize in C++ and Flutter.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShakedKod&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakedKod&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-<br>
+[![barrier](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/Shakedkod)
 
 <h2 align="center" style="color: #79FFF8"> 🏆 GitHub Trophies </h2>
 
