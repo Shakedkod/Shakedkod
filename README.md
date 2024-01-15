@@ -19,7 +19,7 @@ I specialize in C++ and Flutter.
 ⚡ Fun fact: I make podcast and 3D models in blender<br>
 🎮 To see a project of mine go to the pip package [Easier Pygame](https://pypi.org/project/easier-pygame/) in the [github repository](https://github.com/OortStudios/EasierPygame)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <br>
 
 <h2 align="center" style="color: #79FFF8">🌐 Socials</h2>
