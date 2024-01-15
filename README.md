@@ -45,7 +45,7 @@ ___
 
 <h2 align="center" style="color: #79FFF8"> 🏆 GitHub Trophies </h2>
 
-![](https://github-profile-trophy.vercel.app/?username=ShakedKod&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 
