@@ -3,15 +3,11 @@
 </h1>
 
 <h2 style="color: #79FFF8"> 💫 About Me: </h2>
-I'm a 16 year old software developer and designer.<br>
+I'm a 17 year old software developer and designer.<br>
 I specialize in C++ and Flutter.
 <br>
 <br>
 
-🔭 I’m currently working on [Project Time](https://shakedkod.tech/projectTime/)
-<br>
-🤝 I’m looking for help with C++ debugging.
-<br>
 🌱 I’m currently learning everything!
 <br>
 💬 Ask me about making games in Python
