@@ -1,0 +1,7 @@
+body :is(h1, .HyperMD-header.HyperMD-header-1)
+{
+    text-align: center;
+    font-size: 60px;
+    font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono", "JetBrains Mono";
+    padding: 0 !important;
+}

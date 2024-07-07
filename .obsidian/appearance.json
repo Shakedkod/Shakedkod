@@ -1,0 +1,15 @@
+{
+  "accentColor": "#ffa200",
+  "cssTheme": "Vicious",
+  "enabledCssSnippets": [
+    "Script Snipptes",
+    "Notebook Backgrounds",
+    "CyanVoxel's General Tweaks",
+    "Colored Sidebar Items",
+    "Minecraft",
+    "Runescape",
+    "all snippets",
+    "Daily Note Themes"
+  ],
+  "theme": "obsidian"
+}

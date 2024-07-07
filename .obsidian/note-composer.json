@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "template": "99 - Meta/00 - Templates/(TEMPLATE) Unique",
+  "replacementText": "embed"
+}

@@ -1,0 +1,71 @@
+.script
+{
+    --italic-color: #6fffb0;
+}
+
+.MajorTitles h1, .script h1
+{
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #ff6600;
+    background-image: linear-gradient(25deg, #ffed00 0%, #ff9c00 35%, #ff9c00 58%, #ffed00 100%);
+    text-align: center;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 6cap;
+}
+
+.script .end
+{
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #ffbb00;
+    background-image: radial-gradient(circle, #ffda9f 15%, #ff9c00 50%);
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.script h2
+{
+    color: #ffb380;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.script .cm-header-2
+{
+    color: #00ffff;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cm-strong, strong
+{
+    color: #00fff2;
+    font-weight: bold;
+}
+
+.bold-black .cm-strong, .bold-black strong
+{
+    color: #493636;
+    font-weight: bold;
+}
+
+.bold-grad .cm-strong, .bold-grad strong
+{
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 0;
+    color: #7aa2f7;
+    background-color: #7aa2f7;
+    background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
+    font-weight: bold;
+}
