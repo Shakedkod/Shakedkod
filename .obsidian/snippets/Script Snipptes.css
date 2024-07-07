@@ -46,12 +46,6 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.cm-strong, strong
-{
-    color: #00fff2;
-    font-weight: bold;
-}
-
 .bold-black .cm-strong, .bold-black strong
 {
     color: #493636;
