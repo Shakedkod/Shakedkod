@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/Untitled.md"
+      "basename": "_הדרישות",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/הדרישות/_הדרישות.md"
+    },
+    {
+      "basename": "כללי",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/הדרישות/כללי.png"
     },
     {
       "basename": "README",
@@ -195,10 +199,6 @@
     {
       "basename": "שאלה 2",
       "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 2.png"
-    },
-    {
-      "basename": "טיימר",
-      "path": "01 - University/00 - Psychometric Course/טיימר.png"
     }
   ],
   "omittedPaths": [],
