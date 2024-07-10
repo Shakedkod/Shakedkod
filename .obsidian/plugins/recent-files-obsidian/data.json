@@ -5,6 +5,18 @@
       "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/_השלמת משפטים.md"
     },
     {
+      "basename": "שאלה 7",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/שאלה 7.png"
+    },
+    {
+      "basename": "הערה לשאלה 7",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/הערה לשאלה 7.png"
+    },
+    {
+      "basename": "המלכודות",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/המלכודות.png"
+    },
+    {
       "basename": "שאלה 6",
       "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/שאלה 6.png"
     },
@@ -187,10 +199,6 @@
     {
       "basename": "Vocabulary Band III",
       "path": "00 - School/אנגלית/Vocabulary Band III.pdf"
-    },
-    {
-      "basename": "(TEMPLATE) Daily (Vanilla)",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
     }
   ],
   "omittedPaths": [],
