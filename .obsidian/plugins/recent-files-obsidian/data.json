@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_התכנון",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/01 - התכנון/_התכנון.md"
+    },
+    {
       "basename": "_הדרישות",
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/00 - הדרישות/_הדרישות.md"
+    },
+    {
+      "basename": "email_attachment_1",
+      "path": "01 - University/00 - Psychometric Course/email_attachment_1.pdf"
+    },
+    {
+      "basename": "email_attachment_2",
+      "path": "01 - University/00 - Psychometric Course/email_attachment_2.pdf"
     },
     {
       "basename": "כללי",
@@ -187,18 +199,6 @@
     {
       "basename": "שאלה 5",
       "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 5.png"
-    },
-    {
-      "basename": "הגשת חיבור",
-      "path": "01 - University/00 - Psychometric Course/הגשת חיבור.png"
-    },
-    {
-      "basename": "שאלה 3",
-      "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 3.png"
-    },
-    {
-      "basename": "שאלה 2",
-      "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 2.png"
     }
   ],
   "omittedPaths": [],
