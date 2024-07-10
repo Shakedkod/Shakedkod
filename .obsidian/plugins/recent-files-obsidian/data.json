@@ -5,6 +5,18 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/_חישוב מקורב.md"
     },
     {
+      "basename": "שאלה 1",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/שאלה 1.png"
+    },
+    {
+      "basename": "שאלה 2",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/שאלה 2.png"
+    },
+    {
+      "basename": "הערה לשאלה 2",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/הערה לשאלה 2.png"
+    },
+    {
       "basename": "_תכונות חלוקה",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/_תכונות חלוקה.md"
     },
@@ -183,22 +195,6 @@
     {
       "basename": "2024-06-21",
       "path": "06 - Daily/2024-06-21.md"
-    },
-    {
-      "basename": "2024-06-20",
-      "path": "06 - Daily/2024-06-20.md"
-    },
-    {
-      "basename": "סילבוס",
-      "path": "00 - School/כימיה/סילבוס.md"
-    },
-    {
-      "basename": "Literature",
-      "path": "00 - School/אנגלית/Literature.md"
-    },
-    {
-      "basename": "טבלה מחזורית",
-      "path": "00 - School/כימיה/טבלה מחזורית.png"
     }
   ],
   "omittedPaths": [],
