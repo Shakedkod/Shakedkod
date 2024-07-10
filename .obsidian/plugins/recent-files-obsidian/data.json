@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/_תכונות חלוקה.md"
     },
     {
+      "basename": "שאלה 6",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/שאלה 6.png"
+    },
+    {
       "basename": "_חישוב מקורב",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/_חישוב מקורב.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "(TEMPLATE) Daily",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
-    },
-    {
-      "basename": "משימה",
-      "path": "02 - Projects/קורס רדיו/Ep1/משימה.md"
     }
   ],
   "omittedPaths": [],
