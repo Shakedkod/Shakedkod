@@ -5,6 +5,18 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/_אחוזים.md"
     },
     {
+      "basename": "שאלה 11",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 11.png"
+    },
+    {
+      "basename": "הערה לשאלה 12",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/הערה לשאלה 12.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "שאלה 10",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 10.png"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "כללי",
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/00 - הדרישות/כללי.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "_תכונות חלוקה",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-07-07",
       "path": "06 - Daily/2024-07-07.md"
-    },
-    {
-      "basename": "שאלה 12",
-      "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 12.png"
-    },
-    {
-      "basename": "שאלה 10",
-      "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 10.png"
     }
   ],
   "omittedPaths": [],
