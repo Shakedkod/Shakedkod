@@ -5,6 +5,14 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/_אחוזים.md"
     },
     {
+      "basename": "הערה לשאלה 14",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/הערה לשאלה 14.png"
+    },
+    {
+      "basename": "שאלה 14",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 14.png"
+    },
+    {
       "basename": "שאלה 11",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 11.png"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_אנלוגיות",
       "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/_אנלוגיות.md"
-    },
-    {
-      "basename": "הסבר על האתר",
-      "path": "01 - University/00 - Psychometric Course/הסבר על האתר.md"
-    },
-    {
-      "basename": "2024-07-07",
-      "path": "06 - Daily/2024-07-07.md"
     }
   ],
   "omittedPaths": [],
