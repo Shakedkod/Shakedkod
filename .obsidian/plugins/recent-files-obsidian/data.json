@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/_אחוזים.md"
     },
     {
+      "basename": "שאלה 10",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 10.png"
+    },
+    {
       "basename": "מידע כללי",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/מידע כללי.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "שאלה 10",
       "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 10.png"
-    },
-    {
-      "basename": "שאלה 11",
-      "path": "01 - University/00 - Psychometric Course/עברית/אנלוגיות/שאלה 11.png"
     }
   ],
   "omittedPaths": [],
