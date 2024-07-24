@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/_משולשים.md"
     },
     {
+      "basename": "שאלה 3",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/שאלה 3.png"
+    },
+    {
       "basename": "_תכונות חלוקה",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/_תכונות חלוקה.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "הערה לשאלה 2",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/הערה לשאלה 2.png"
-    },
-    {
-      "basename": "כללי",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/כללי.md"
     }
   ],
   "omittedPaths": [],
