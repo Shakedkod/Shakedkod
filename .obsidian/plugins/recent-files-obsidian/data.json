@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "מבנה החיבור המומלץ",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/מבנה החיבור המומלץ.md"
+      "basename": "_סוגי מספרים",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/_סוגי מספרים.md"
+    },
+    {
+      "basename": "שאלה 5",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/שאלה 5.png"
+    },
+    {
+      "basename": "שאלה 6",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/שאלה 6.png"
+    },
+    {
+      "basename": "שאלה 4",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/שאלה 4.png"
+    },
+    {
+      "basename": "שאלה 3",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/שאלה 3.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "נתון 3-7",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/נתון 3-7.png"
+    },
+    {
+      "basename": "שאלה 1",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/שאלה 1.png"
+    },
+    {
+      "basename": "שאלה 2",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/שאלה 2.png"
+    },
+    {
+      "basename": "דרך פתרון",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/דרך פתרון.png"
+    },
+    {
+      "basename": "כללי",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/כללי.md"
     },
     {
       "basename": "_התכנון",
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/01 - התכנון/_התכנון.md"
+    },
+    {
+      "basename": "מבנה החיבור המומלץ",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/מבנה החיבור המומלץ.md"
     },
     {
       "basename": "מטלה 1",
@@ -155,50 +199,6 @@
     {
       "basename": "הערה לשאלה 12",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/הערה לשאלה 12.png"
-    },
-    {
-      "basename": "שאלות דוד",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלות דוד.png"
-    },
-    {
-      "basename": "שאלה 16",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 16.png"
-    },
-    {
-      "basename": "שאלה 15",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 15.png"
-    },
-    {
-      "basename": "הערה לשאלה 14",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/הערה לשאלה 14.png"
-    },
-    {
-      "basename": "שאלה 14",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 14.png"
-    },
-    {
-      "basename": "שאלה 11",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 11.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "שאלה 10",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 10.png"
-    },
-    {
-      "basename": "מידע כללי",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/מידע כללי.png"
-    },
-    {
-      "basename": "2024-07-10",
-      "path": "06 - Daily/2024-07-10.md"
-    },
-    {
-      "basename": "2024-07-19",
-      "path": "06 - Daily/2024-07-19.md"
     }
   ],
   "omittedPaths": [],
