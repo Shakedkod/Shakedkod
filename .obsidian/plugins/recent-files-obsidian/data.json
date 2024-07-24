@@ -5,6 +5,14 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/_משולשים.md"
     },
     {
+      "basename": "הסבר",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/הסבר.png"
+    },
+    {
+      "basename": "שאלה 4",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/שאלה 4.png"
+    },
+    {
       "basename": "שאלה 3",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/שאלה 3.png"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "הערה לשאלה 17",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/הערה לשאלה 17.png"
-    },
-    {
-      "basename": "הסבר",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/הסבר.png"
     },
     {
       "basename": "_ניסוח מחדש",
@@ -195,10 +199,6 @@
     {
       "basename": "שאלה 2",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/שאלה 2.png"
-    },
-    {
-      "basename": "הערה לשאלה 2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/הערה לשאלה 2.png"
     }
   ],
   "omittedPaths": [],
