@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/עברית/שאלות כללים/_שאלות כללים.md"
     },
     {
+      "basename": "שאלה 1",
+      "path": "01 - University/00 - Psychometric Course/עברית/שאלות כללים/שאלה 1.png"
+    },
+    {
       "basename": "מידע",
       "path": "01 - University/00 - Psychometric Course/עברית/שאלות כללים/מידע.png"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "202403091325 General Tweaks CSS Classes",
       "path": "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md"
-    },
-    {
-      "basename": "שאלה 6",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/שאלה 6.png"
-    },
-    {
-      "basename": "שאלה 5",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/שאלה 5.png"
     }
   ],
   "omittedPaths": [],
