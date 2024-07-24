@@ -5,6 +5,30 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/_משולשים.md"
     },
     {
+      "basename": "_תכונות חלוקה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/_תכונות חלוקה.md"
+    },
+    {
+      "basename": "_חישוב מקורב",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/_חישוב מקורב.md"
+    },
+    {
+      "basename": "משפט פיטגורס",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/משפט פיטגורס.png"
+    },
+    {
+      "basename": "קטע אמצעים",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/קטע אמצעים.png"
+    },
+    {
+      "basename": "משולש כסף",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/משולש כסף.png"
+    },
+    {
+      "basename": "משולש זהב",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/משולש זהב.png"
+    },
+    {
       "basename": "הערה לשאלה 18",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/הערה לשאלה 18.png"
     },
@@ -113,10 +137,6 @@
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/00 - הדרישות/כללי.png"
     },
     {
-      "basename": "_תכונות חלוקה",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/_תכונות חלוקה.md"
-    },
-    {
       "basename": "שאלה 9",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/שאלה 9.png"
     },
@@ -131,10 +151,6 @@
     {
       "basename": "שאלה 7",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/שאלה 7.png"
-    },
-    {
-      "basename": "_חישוב מקורב",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/_חישוב מקורב.md"
     },
     {
       "basename": "202403091325 General Tweaks CSS Classes",
@@ -183,22 +199,6 @@
     {
       "basename": "כללי",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/כללי.md"
-    },
-    {
-      "basename": "_השלמת משפטים",
-      "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/_השלמת משפטים.md"
-    },
-    {
-      "basename": "שאלה 7",
-      "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/שאלה 7.png"
-    },
-    {
-      "basename": "הערה לשאלה 7",
-      "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/הערה לשאלה 7.png"
-    },
-    {
-      "basename": "המלכודות",
-      "path": "01 - University/00 - Psychometric Course/אנגלית/השלמת משפטים/המלכודות.png"
     }
   ],
   "omittedPaths": [],
