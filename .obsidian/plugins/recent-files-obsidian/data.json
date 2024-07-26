@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/_מרובעים.md"
     },
     {
+      "basename": "מידע",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/מידע.png"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_אחוזים",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/_אחוזים.md"
-    },
-    {
-      "basename": "שאלה 18",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/שאלה 18.png"
     }
   ],
   "omittedPaths": [],
