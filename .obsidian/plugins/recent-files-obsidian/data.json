@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/_הסקה כללית.md"
     },
     {
+      "basename": "_הסקה מדעית",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/_הסקה מדעית.md"
+    },
+    {
       "basename": "מידע",
       "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/מידע.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "משולש זהב",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/משולש זהב.png"
-    },
-    {
-      "basename": "הערה לשאלה 18",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/הערה לשאלה 18.png"
     }
   ],
   "omittedPaths": [],
