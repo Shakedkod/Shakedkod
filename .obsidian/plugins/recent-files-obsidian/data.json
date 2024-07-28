@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/_ניסוח מחדש.md"
     },
     {
+      "basename": "מלכודות",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/מלכודות.png"
+    },
+    {
       "basename": "שאלה 9",
       "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 9.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "הערה לשאלה 6",
       "path": "01 - University/00 - Psychometric Course/עברית/שאלות כללים/הגיון צורני/הערה לשאלה 6.png"
-    },
-    {
-      "basename": "שאלה 2",
-      "path": "01 - University/00 - Psychometric Course/עברית/שאלות כללים/שאלה 2.png"
     }
   ],
   "omittedPaths": [],
