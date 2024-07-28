@@ -5,6 +5,18 @@
       "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/_הסקה כללית.md"
     },
     {
+      "basename": "הערה לשאלה 3",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הערה לשאלה 3.png"
+    },
+    {
+      "basename": "שאלה 3",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/שאלה 3.png"
+    },
+    {
+      "basename": "שאלה 2",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/שאלה 2.png"
+    },
+    {
       "basename": "שאלה 1",
       "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/שאלה 1.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_חישוב מקורב",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/חישוב מקורב/_חישוב מקורב.md"
-    },
-    {
-      "basename": "משפט פיטגורס",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/משפט פיטגורס.png"
-    },
-    {
-      "basename": "קטע אמצעים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/קטע אמצעים.png"
-    },
-    {
-      "basename": "משולש כסף",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/משולש כסף.png"
     }
   ],
   "omittedPaths": [],
