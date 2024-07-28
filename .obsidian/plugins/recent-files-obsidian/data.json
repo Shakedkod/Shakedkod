@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/03 - פסקת פתחה/_פסקת הפתחה.md"
     },
     {
+      "basename": "דוגמה לפתיחה",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/03 - פסקת פתחה/דוגמה לפתיחה.png"
+    },
+    {
       "basename": "מבנה החיבור המומלץ",
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/מבנה החיבור המומלץ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "שאלה 5",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/שאלה 5.png"
-    },
-    {
-      "basename": "הסבר",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/הסבר.png"
     }
   ],
   "omittedPaths": [],
