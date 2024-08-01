@@ -5,6 +5,42 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/_תלת מימד.md"
     },
     {
+      "basename": "פירמידה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/פירמידה.png"
+    },
+    {
+      "basename": "מנסרה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/מנסרה.png"
+    },
+    {
+      "basename": "טיפ לחרוט",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/טיפ לחרוט.png"
+    },
+    {
+      "basename": "חרוט",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/חרוט.png"
+    },
+    {
+      "basename": "גליל",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/גליל.png"
+    },
+    {
+      "basename": "שאלה 5",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/שאלה 5.png"
+    },
+    {
+      "basename": "תיבה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/תיבה.png"
+    },
+    {
+      "basename": "שאלה 1",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/שאלה 1.png"
+    },
+    {
+      "basename": "מידע",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/מידע.png"
+    },
+    {
       "basename": "מידע כללי",
       "path": "01 - University/00 - Psychometric Course/מידע כללי.md"
     },
@@ -159,46 +195,6 @@
     {
       "basename": "שאלה 2",
       "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 2.png"
-    },
-    {
-      "basename": "מידע",
-      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/מידע.png"
-    },
-    {
-      "basename": "_מבוא לחשיבה פסיכומטרית",
-      "path": "01 - University/00 - Psychometric Course/מבוא לחשיבה פסיכומטרית/_מבוא לחשיבה פסיכומטרית.md"
-    },
-    {
-      "basename": "דוגמה לפתיחה",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/03 - פסקת פתחה/דוגמה לפתיחה.png"
-    },
-    {
-      "basename": "הערה לשאלה 5",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הערה לשאלה 5.png"
-    },
-    {
-      "basename": "_הסקה כללית",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/_הסקה כללית.md"
-    },
-    {
-      "basename": "שאלה 4",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/שאלה 4.png"
-    },
-    {
-      "basename": "שאלה 5",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/שאלה 5.png"
-    },
-    {
-      "basename": "הערה לשאלה 3",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הערה לשאלה 3.png"
-    },
-    {
-      "basename": "שאלה 3",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/שאלה 3.png"
-    },
-    {
-      "basename": "שאלה 2",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/שאלה 2.png"
     }
   ],
   "omittedPaths": [],
