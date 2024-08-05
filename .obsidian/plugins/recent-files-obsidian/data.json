@@ -1,44 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "_הסקה מדעית",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/_הסקה מדעית.md"
+    },
+    {
       "basename": "296 - גיאומטריה - תרגול מסכם",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/296 - גיאומטריה - תרגול מסכם.pdf"
     },
     {
-      "basename": "_הסקה מדעית",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/_הסקה מדעית.md"
+      "basename": "_מעגלים",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/_מעגלים.md"
+    },
+    {
+      "basename": "_משולשים",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/_משולשים.md"
+    },
+    {
+      "basename": "הסבר",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/הסבר.png"
     },
     {
       "basename": "מידע",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/מידע.png"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/מידע.png"
     },
     {
       "basename": "שאלה 6",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 6.png"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/שאלה 6.png"
     },
     {
       "basename": "שאלה 5",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 5.png"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/שאלה 5.png"
     },
     {
       "basename": "שאלה 4",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 4.png"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/שאלה 4.png"
     },
     {
       "basename": "שאלה 3",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 3.png"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/שאלה 3.png"
     },
     {
       "basename": "שאלה 2",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 2.png"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/שאלה 2.png"
     },
     {
       "basename": "שאלה 1",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 1.png"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/שאלה 1.png"
     },
     {
       "basename": "_הסקה כללית",
-      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/_הסקה כללית.md"
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/_הסקה כללית.md"
     },
     {
       "basename": "_הנדסה אנליטית",
@@ -137,10 +149,6 @@
       "path": "06 - Daily/2024-08-05.md"
     },
     {
-      "basename": "_מעגלים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/_מעגלים.md"
-    },
-    {
       "basename": "משושה משוכלל",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/משושה משוכלל.png"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "שאלה 2-3",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 2-3.png"
-    },
-    {
-      "basename": "שאלה 2-2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 2-2.png"
     }
   ],
   "omittedPaths": [],
