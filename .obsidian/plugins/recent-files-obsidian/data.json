@@ -5,6 +5,34 @@
       "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/_הסקה מדעית.md"
     },
     {
+      "basename": "מידע",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/מידע.png"
+    },
+    {
+      "basename": "שאלה 6",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 6.png"
+    },
+    {
+      "basename": "שאלה 5",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 5.png"
+    },
+    {
+      "basename": "שאלה 4",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 4.png"
+    },
+    {
+      "basename": "שאלה 3",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 3.png"
+    },
+    {
+      "basename": "שאלה 2",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 2.png"
+    },
+    {
+      "basename": "שאלה 1",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/הסקה מדעית/שאלה 1.png"
+    },
+    {
       "basename": "_הסקה כללית",
       "path": "01 - University/00 - Psychometric Course/עברית/הסקה כללית/_הסקה כללית.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "logo",
       "path": "images/logo.png"
-    },
-    {
-      "basename": "_משולשים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/_משולשים.md"
-    },
-    {
-      "basename": "_סוגי מספרים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/_סוגי מספרים.md"
-    },
-    {
-      "basename": "_התכנון",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/01 - התכנון/_התכנון.md"
-    },
-    {
-      "basename": "מטלה 2",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/02 - סיעור מוחין/מטלה 2.png"
-    },
-    {
-      "basename": "_סיעור מוחין",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/02 - סיעור מוחין/_סיעור מוחין.md"
-    },
-    {
-      "basename": "זווית היקפית",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/זווית היקפית.png"
-    },
-    {
-      "basename": "שאלה 3",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 3.png"
     }
   ],
   "omittedPaths": [],
