@@ -5,200 +5,200 @@
       "path": "06 - Daily/2024-08-05.md"
     },
     {
-      "basename": "_מעגלים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/_מעגלים.md"
+      "basename": "_תלת מימד",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/_תלת מימד.md"
     },
     {
-      "basename": "_מצולע משוכלל",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/_מצולע משוכלל.md"
+      "basename": "פירמידה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/פירמידה.png"
     },
     {
-      "basename": "משושה משוכלל",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/משושה משוכלל.png"
+      "basename": "מנסרה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/מנסרה.png"
     },
     {
-      "basename": "מעגל חסום במרובע",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/מעגל חסום במרובע.png"
+      "basename": "טיפ לחרוט",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/טיפ לחרוט.png"
     },
     {
-      "basename": "שאלה 2-1",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 2-1.png"
+      "basename": "חרוט",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/חרוט.png"
     },
     {
-      "basename": "מעגל חוסם",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/מעגל חוסם.png"
-    },
-    {
-      "basename": "טיפים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/טיפים.png"
-    },
-    {
-      "basename": "הסבר לשאלה 5",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/הסבר לשאלה 5.png"
-    },
-    {
-      "basename": "שאלה 3",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/שאלה 3.png"
-    },
-    {
-      "basename": "שאלה 4",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/שאלה 4.png"
-    },
-    {
-      "basename": "שאלה 2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/שאלה 2.png"
-    },
-    {
-      "basename": "שאלה 1",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/שאלה 1.png"
+      "basename": "גליל",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/גליל.png"
     },
     {
       "basename": "שאלה 5",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/שאלה 5.png"
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/שאלה 5.png"
     },
     {
-      "basename": "מתומן משוכלל",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/מתומן משוכלל.png"
-    },
-    {
-      "basename": "שאלה 2-3",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 2-3.png"
-    },
-    {
-      "basename": "שאלה 2-2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 2-2.png"
-    },
-    {
-      "basename": "מעגל חסום",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/מעגל חסום.png"
-    },
-    {
-      "basename": "logo",
-      "path": "images/logo.png"
-    },
-    {
-      "basename": "_משולשים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/משולשים/_משולשים.md"
-    },
-    {
-      "basename": "_סוגי מספרים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/סוגי מספרים/_סוגי מספרים.md"
-    },
-    {
-      "basename": "_התכנון",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/01 - התכנון/_התכנון.md"
-    },
-    {
-      "basename": "מטלה 2",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/02 - סיעור מוחין/מטלה 2.png"
-    },
-    {
-      "basename": "_סיעור מוחין",
-      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/02 - סיעור מוחין/_סיעור מוחין.md"
-    },
-    {
-      "basename": "זווית היקפית",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/זווית היקפית.png"
-    },
-    {
-      "basename": "שאלה 3",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 3.png"
-    },
-    {
-      "basename": "שאלה 2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 2.png"
+      "basename": "תיבה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/תיבה.png"
     },
     {
       "basename": "שאלה 1",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/שאלה 1.png"
-    },
-    {
-      "basename": "זווית מרכזית",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/זווית מרכזית.png"
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/שאלה 1.png"
     },
     {
       "basename": "מידע",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/מידע.png"
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/מידע.png"
     },
     {
-      "basename": "_מרובעים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/_מרובעים.md"
+      "basename": "מידע כללי",
+      "path": "01 - University/00 - Psychometric Course/מידע כללי.md"
     },
     {
-      "basename": "דלתון",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/דלתון.png"
+      "basename": "חיבור לדוגמה - כבישי אגרה",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/חיבור לדוגמה - כבישי אגרה.md"
     },
     {
-      "basename": "שאלה 6",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שאלה 6.png"
+      "basename": "_פסקת סיכום",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/05 - פסקת סיום וטיפים חשובים/_פסקת סיכום.md"
     },
     {
-      "basename": "שאלה 5",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שאלה 5.png"
+      "basename": "מבנה החיבור המומלץ",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/מבנה החיבור המומלץ.md"
     },
     {
-      "basename": "הסבר לשאלה 4",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/הסבר לשאלה 4.png"
+      "basename": "_כתיבת פסקת טיעון",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/04 - כתיבת פסקת טיעונים/_כתיבת פסקת טיעון.md"
     },
     {
-      "basename": "שאלה 4",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שאלה 4.png"
+      "basename": "שתיים",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/04 - כתיבת פסקת טיעונים/שתיים.png"
     },
     {
-      "basename": "שאלה 3",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שאלה 3.png"
+      "basename": "אחד",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/04 - כתיבת פסקת טיעונים/אחד.png"
+    },
+    {
+      "basename": "_פסקת הפתחה",
+      "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/03 - פסקת פתחה/_פסקת הפתחה.md"
+    },
+    {
+      "basename": "_בעיות ממוצע",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/_בעיות ממוצע.md"
+    },
+    {
+      "basename": "הערה 1 לשאלה 6",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/הערה 1 לשאלה 6.png"
+    },
+    {
+      "basename": "שאלה 12",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 12.png"
+    },
+    {
+      "basename": "שאלה 11",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 11.png"
+    },
+    {
+      "basename": "שאלה 10",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 10.png"
+    },
+    {
+      "basename": "שאלה 9",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 9.png"
+    },
+    {
+      "basename": "הערה לשאלה 8",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/הערה לשאלה 8.png"
+    },
+    {
+      "basename": "שאלה 8",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 8.png"
+    },
+    {
+      "basename": "הערה לשאלה 7",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/הערה לשאלה 7.png"
     },
     {
       "basename": "שאלה 7",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שאלה 7.png"
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 7.png"
     },
     {
-      "basename": "הערה לשאלה 2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/הערה לשאלה 2.png"
+      "basename": "שאלה 6",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 6.png"
     },
     {
-      "basename": "שאלה 2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שאלה 2.png"
+      "basename": "הערה 1 לשאלה 5",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/הערה 1 לשאלה 5.png"
     },
     {
-      "basename": "הערה לשאלה 1",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/הערה לשאלה 1.png"
+      "basename": "הערה 2 לשאלה 5",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/הערה 2 לשאלה 5.png"
+    },
+    {
+      "basename": "מידע",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/מידע.png"
+    },
+    {
+      "basename": "שאלות הקדמה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלות הקדמה.png"
     },
     {
       "basename": "שאלה 1",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שאלה 1.png"
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 1.png"
     },
     {
-      "basename": "שטח-טרפז",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/שטח-טרפז.png"
+      "basename": "שאלה 2",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 2.png"
     },
     {
-      "basename": "טרפז",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/טרפז.png"
+      "basename": "שאלה 3",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 3.png"
     },
     {
-      "basename": "מעויין",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/מעויין.png"
+      "basename": "שאלה 4",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 4.png"
     },
     {
-      "basename": "ריבוע-2",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/ריבוע-2.png"
+      "basename": "שאלה 5",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 5.png"
     },
     {
-      "basename": "ריבוע",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/ריבוע.png"
+      "basename": "_ניסוח מחדש",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/_ניסוח מחדש.md"
     },
     {
-      "basename": "מלבן",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/מלבן.png"
+      "basename": "מלכודות",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/מלכודות.png"
     },
     {
-      "basename": "מקבילית",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/מקבילית.png"
+      "basename": "שאלה 9",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 9.png"
+    },
+    {
+      "basename": "שאלה 7",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 7.png"
+    },
+    {
+      "basename": "שאלה 8",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 8.png"
+    },
+    {
+      "basename": "שאלה 6",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 6.png"
+    },
+    {
+      "basename": "שאלה 5",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 5.png"
+    },
+    {
+      "basename": "שאלה 1",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 1.png"
+    },
+    {
+      "basename": "שאלה 4",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/שאלה 4.png"
     },
     {
       "basename": "מידע",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/מידע.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],
