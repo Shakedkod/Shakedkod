@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/_תלת מימד.md"
     },
     {
+      "basename": "קוביה",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/קוביה.png"
+    },
+    {
       "basename": "2024-08-05",
       "path": "06 - Daily/2024-08-05.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "ריבוע",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/ריבוע.png"
-    },
-    {
-      "basename": "מלבן",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מרובעים/מלבן.png"
     }
   ],
   "omittedPaths": [],
