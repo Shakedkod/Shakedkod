@@ -5,6 +5,14 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/הסקה מתרשים וטבלה/_הסקה מתרשים וטבלה.md"
     },
     {
+      "basename": "_בעיות ממוצע",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/_בעיות ממוצע.md"
+    },
+    {
+      "basename": "_אחוזים",
+      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/_אחוזים.md"
+    },
+    {
       "basename": "טבלה 1",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/הסקה מתרשים וטבלה/טבלה 1.png"
     },
@@ -165,10 +173,6 @@
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/03 - פסקת פתחה/_פסקת הפתחה.md"
     },
     {
-      "basename": "_בעיות ממוצע",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/_בעיות ממוצע.md"
-    },
-    {
       "basename": "הערה 1 לשאלה 6",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/הערה 1 לשאלה 6.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "שאלה 8",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/שאלה 8.png"
-    },
-    {
-      "basename": "הערה לשאלה 7",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/הערה לשאלה 7.png"
     }
   ],
   "omittedPaths": [],
