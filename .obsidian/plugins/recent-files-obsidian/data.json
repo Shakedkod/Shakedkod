@@ -5,6 +5,26 @@
       "path": "01 - University/00 - Psychometric Course/עברית/השלמת משפטים/_השלמת משפטים.md"
     },
     {
+      "basename": "_הסקה מדעית",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/הסקה מדעית/_הסקה מדעית.md"
+    },
+    {
+      "basename": "_הסקה כללית",
+      "path": "01 - University/00 - Psychometric Course/עברית/הסקה/_הסקה כללית.md"
+    },
+    {
+      "basename": "_הבנת הנקרא",
+      "path": "01 - University/00 - Psychometric Course/עברית/הבנת הנקרא/_הבנת הנקרא.md"
+    },
+    {
+      "basename": "_דימויים",
+      "path": "01 - University/00 - Psychometric Course/עברית/דימויים/_דימויים.md"
+    },
+    {
+      "basename": "_ניסוח מחדש",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/ניסוח מחדש/_ניסוח מחדש.md"
+    },
+    {
       "basename": "הערה לשאלה 5",
       "path": "01 - University/00 - Psychometric Course/עברית/השלמת משפטים/הערה לשאלה 5.png"
     },
@@ -93,10 +113,6 @@
       "path": "01 - University/00 - Psychometric Course/עברית/השלמת משפטים/מידע.png"
     },
     {
-      "basename": "_הבנת הנקרא",
-      "path": "01 - University/00 - Psychometric Course/עברית/הבנת הנקרא/_הבנת הנקרא.md"
-    },
-    {
       "basename": "_הסקה מתרשים וטבלה",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/הסקה מתרשים וטבלה/_הסקה מתרשים וטבלה.md"
     },
@@ -165,10 +181,6 @@
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/296 - גיאומטריה - תרגול מסכם.pdf"
     },
     {
-      "basename": "_דימויים",
-      "path": "01 - University/00 - Psychometric Course/עברית/דימויים/_דימויים.md"
-    },
-    {
       "basename": "שאלה 6",
       "path": "01 - University/00 - Psychometric Course/עברית/דימויים/שאלה 6.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "שאלה 2",
       "path": "01 - University/00 - Psychometric Course/עברית/דימויים/שאלה 2.png"
-    },
-    {
-      "basename": "מידע",
-      "path": "01 - University/00 - Psychometric Course/עברית/דימויים/מידע.png"
-    },
-    {
-      "basename": "_תלת מימד",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/_תלת מימד.md"
-    },
-    {
-      "basename": "2024-08-05",
-      "path": "06 - Daily/2024-08-05.md"
     }
   ],
   "omittedPaths": [],
