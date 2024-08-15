@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "טקסט 1",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/הבנת הנקרא/טקסט 1.png"
+    },
+    {
+      "basename": "מידע",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/הבנת הנקרא/מידע.png"
+    },
+    {
+      "basename": "_הבנת הנקרא",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/הבנת הנקרא/_הבנת הנקרא.md"
+    },
+    {
       "basename": "2024-08-15",
       "path": "06 - Daily/2024-08-15.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "_מצולע משוכלל",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מצולעים משוכללים/_מצולע משוכלל.md"
-    },
-    {
-      "basename": "_תלת מימד",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/_תלת מימד.md"
-    },
-    {
-      "basename": "קוביה",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/תלת מימד/קוביה.png"
     }
   ],
   "omittedPaths": [],
