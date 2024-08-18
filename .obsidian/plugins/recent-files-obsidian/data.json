@@ -5,6 +5,10 @@
       "path": "01 - University/00 - Psychometric Course/עברית/הבנת הנקרא/_הבנת הנקרא.md"
     },
     {
+      "basename": "_הבנת הנקרא",
+      "path": "01 - University/00 - Psychometric Course/אנגלית/הבנת הנקרא/_הבנת הנקרא.md"
+    },
+    {
       "basename": "מידע",
       "path": "01 - University/00 - Psychometric Course/עברית/הבנת הנקרא/מידע.png"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "_מעגלים",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/_מעגלים.md"
-    },
-    {
-      "basename": "_הבנת הנקרא",
-      "path": "01 - University/00 - Psychometric Course/אנגלית/הבנת הנקרא/_הבנת הנקרא.md"
     },
     {
       "basename": "_פעולות יצירתיות",
@@ -195,10 +195,6 @@
     {
       "basename": "_בעיות ממוצע",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות ממוצע/_בעיות ממוצע.md"
-    },
-    {
-      "basename": "_אחוזים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/אחוזים/_אחוזים.md"
     }
   ],
   "omittedPaths": [],
