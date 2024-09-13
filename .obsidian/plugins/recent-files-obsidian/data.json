@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Literature",
+      "path": "00 - School/אנגלית/Literature.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "סילבוס",
       "path": "00 - School/כימיה/סילבוס.md"
-    },
-    {
-      "basename": "MathTest",
-      "path": "MathTest.md"
     },
     {
       "basename": "2024-09-13",
@@ -195,10 +195,6 @@
     {
       "basename": "שאלה 9",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 9.png"
-    },
-    {
-      "basename": "שאלה 8",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 8.png"
     }
   ],
   "omittedPaths": [],
