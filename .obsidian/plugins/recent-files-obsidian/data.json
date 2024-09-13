@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-13",
-      "path": "06 - Daily/2024-09-13.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "טבלה מחזורית",
+      "path": "00 - School/כימיה/טבלה מחזורית.png"
+    },
+    {
+      "basename": "סילבוס",
+      "path": "00 - School/כימיה/סילבוס.md"
+    },
+    {
+      "basename": "MathTest",
+      "path": "MathTest.md"
+    },
+    {
+      "basename": "2024-09-13",
+      "path": "06 - Daily/2024-09-13.md"
     },
     {
       "basename": "2024-09-10",
@@ -187,14 +199,6 @@
     {
       "basename": "שאלה 8",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 8.png"
-    },
-    {
-      "basename": "שאלה 7",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 7.png"
-    },
-    {
-      "basename": "שאלה 6",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 6.png"
     }
   ],
   "omittedPaths": [],
