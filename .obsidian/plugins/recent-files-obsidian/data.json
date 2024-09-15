@@ -2,7 +2,27 @@
   "recentFiles": [
     {
       "basename": "מידע",
-      "path": "00 - School/פיזיקה - מעבדה/מידע.md"
+      "path": "00 - School/פיזיקה/מעבדה/מידע.md"
+    },
+    {
+      "basename": "_אותה גברת בשינוי אדרת",
+      "path": "01 - University/00 - Psychometric Course/אותה גברת בשינוי אדרת/_אותה גברת בשינוי אדרת.md"
+    },
+    {
+      "basename": "פגישה, חצי פגישה",
+      "path": "00 - School/ספרות/שירים/פגישה, חצי פגישה.md"
+    },
+    {
+      "basename": "עטלף עיוור - תרגיל בכיתה",
+      "path": "00 - School/ספרות/עטלף עיוור - תרגיל בכיתה.md"
+    },
+    {
+      "basename": "סילבוס",
+      "path": "00 - School/כימיה/סילבוס.md"
+    },
+    {
+      "basename": "תרגיל ל-16.11",
+      "path": "00 - School/עברית/תרגיל ל-16.11.pdf"
     },
     {
       "basename": "2024-09-15",
@@ -10,11 +30,11 @@
     },
     {
       "basename": "תנועת גוף הנגרר עי קפיץ",
-      "path": "00 - School/פיזיקה - מעבדה/כיתה יא/תנועת גוף הנגרר עי קפיץ.pdf"
+      "path": "00 - School/פיזיקה/מעבדה/כיתה יא/תנועת גוף הנגרר עי קפיץ.pdf"
     },
     {
       "basename": "ביצוע מדידה בעזרת מאזניים",
-      "path": "00 - School/פיזיקה - מעבדה/כיתה יא/ביצוע מדידה בעזרת מאזניים.pdf"
+      "path": "00 - School/פיזיקה/מעבדה/כיתה יא/ביצוע מדידה בעזרת מאזניים.pdf"
     },
     {
       "basename": "README",
@@ -27,10 +47,6 @@
     {
       "basename": "טבלה מחזורית",
       "path": "00 - School/כימיה/טבלה מחזורית.png"
-    },
-    {
-      "basename": "סילבוס",
-      "path": "00 - School/כימיה/סילבוס.md"
     },
     {
       "basename": "2024-09-13",
@@ -67,10 +83,6 @@
     {
       "basename": "הערה לשאלה 1",
       "path": "01 - University/00 - Psychometric Course/אותה גברת בשינוי אדרת/הערה לשאלה 1.png"
-    },
-    {
-      "basename": "_אותה גברת בשינוי אדרת",
-      "path": "01 - University/00 - Psychometric Course/אותה גברת בשינוי אדרת/_אותה גברת בשינוי אדרת.md"
     },
     {
       "basename": "שאלה 1",
@@ -187,18 +199,6 @@
     {
       "basename": "_סיעור מוחין",
       "path": "01 - University/00 - Psychometric Course/עברית/מטלת הכתיבה/02 - סיעור מוחין/_סיעור מוחין.md"
-    },
-    {
-      "basename": "_מעגלים",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/גיאומטריה/מעגלים/_מעגלים.md"
-    },
-    {
-      "basename": "_פעולות יצירתיות",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/_פעולות יצירתיות.md"
-    },
-    {
-      "basename": "מידע",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/מידע.png"
     }
   ],
   "omittedPaths": [],
