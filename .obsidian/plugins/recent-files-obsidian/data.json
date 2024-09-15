@@ -5,6 +5,18 @@
       "path": "06 - Daily/2024-09-15.md"
     },
     {
+      "basename": "מידע",
+      "path": "00 - School/פיזיקה - מעבדה/מידע.md"
+    },
+    {
+      "basename": "תנועת גוף הנגרר עי קפיץ",
+      "path": "00 - School/פיזיקה - מעבדה/כיתה יא/תנועת גוף הנגרר עי קפיץ.pdf"
+    },
+    {
+      "basename": "ביצוע מדידה בעזרת מאזניים",
+      "path": "00 - School/פיזיקה - מעבדה/כיתה יא/ביצוע מדידה בעזרת מאזניים.pdf"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "מידע",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/מידע.png"
-    },
-    {
-      "basename": "שאלה 11",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 11.png"
-    },
-    {
-      "basename": "שאלה 10",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 10.png"
-    },
-    {
-      "basename": "שאלה 9",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/פעולות יצירתיות/שאלה 9.png"
     }
   ],
   "omittedPaths": [],
