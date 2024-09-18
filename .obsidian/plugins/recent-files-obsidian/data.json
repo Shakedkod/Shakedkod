@@ -5,6 +5,10 @@
       "path": "00 - School/פיזיקה/אלקטרוסטטיקה.md"
     },
     {
+      "basename": "שדה חשמלי",
+      "path": "00 - School/פיזיקה/שדה חשמלי.md"
+    },
+    {
       "basename": "מידע לתחילת השנה",
       "path": "00 - School/פיזיקה/מידע לתחילת השנה.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "שאלה 1",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות תנועה/שאלה 1.png"
-    },
-    {
-      "basename": "פירמידות מהירות-זמן-דרך",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות תנועה/פירמידות מהירות-זמן-דרך.png"
     }
   ],
   "omittedPaths": [],
