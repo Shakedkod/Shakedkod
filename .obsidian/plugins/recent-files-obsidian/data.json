@@ -5,6 +5,22 @@
       "path": "00 - School/פיזיקה/אלקטרוסטטיקה.md"
     },
     {
+      "basename": "דף נוסחאות",
+      "path": "00 - School/פיזיקה/דף נוסחאות.pdf"
+    },
+    {
+      "basename": "2024-09-18 תרגיל 5",
+      "path": "00 - School/פיזיקה/תרגילים/2024-09-18 תרגיל 5.md"
+    },
+    {
+      "basename": "2024-09-18 תרגיל 3",
+      "path": "00 - School/פיזיקה/תרגילים/2024-09-18 תרגיל 3.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "חימצון חיזור",
       "path": "00 - School/כימיה/חימצון חיזור.md"
     },
@@ -105,10 +121,6 @@
       "path": "00 - School/פיזיקה/מעבדה/כיתה יא/ביצוע מדידה בעזרת מאזניים.pdf"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Literature",
       "path": "00 - School/אנגלית/Literature.md"
     },
@@ -183,18 +195,6 @@
     {
       "basename": "פירמידות מהירות-זמן-דרך",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות תנועה/פירמידות מהירות-זמן-דרך.png"
-    },
-    {
-      "basename": "מידע",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות תנועה/מידע.png"
-    },
-    {
-      "basename": "מידע",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/קומבינטוריקה/מידע.png"
-    },
-    {
-      "basename": "_תכונות חלוקה",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/תכונות מספרים/תכונות חלוקה/_תכונות חלוקה.md"
     }
   ],
   "omittedPaths": [],
