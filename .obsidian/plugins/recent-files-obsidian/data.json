@@ -9,6 +9,10 @@
       "path": "00 - School/ספרות/שירים/פגישה, חצי פגישה.md"
     },
     {
+      "basename": "פגישה-חצי-פגישה",
+      "path": "00 - School/ספרות/ציורים/פגישה-חצי-פגישה.md"
+    },
+    {
       "basename": "אלקטרוסטטיקה",
       "path": "00 - School/פיזיקה/אלקטרוסטטיקה.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "דרך פתרון 2",
       "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות תנועה/דרך פתרון 2.png"
-    },
-    {
-      "basename": "הערה לשאלה 1",
-      "path": "01 - University/00 - Psychometric Course/מתמטיקה/בעיות תנועה/הערה לשאלה 1.png"
     }
   ],
   "omittedPaths": [],
