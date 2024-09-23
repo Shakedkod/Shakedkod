@@ -1,6 +1,6 @@
 {
   "rightToLeft": true,
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
