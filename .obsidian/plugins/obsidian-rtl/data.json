@@ -1,5 +1,7 @@
 {
-  "fileDirections": {},
+  "fileDirections": {
+    "00 - School/מדעי המחשב/מחסנית.md": "ltr"
+  },
   "defaultDirection": "rtl",
   "rememberPerFile": true,
   "setNoteTitleDirection": true,
