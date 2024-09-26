@@ -3,6 +3,21 @@
     --italic-color: #6fffb0;
 }
 
+.MajorTitles :is(h1, .HyperMD-header.HyperMD-header-1), .script :is(h1, .HyperMD-header.HyperMD-header-1)
+{
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #ff6600;
+    background-image: linear-gradient(25deg, #ffed00 0%, #ff9c00 35%, #ff9c00 58%, #ffed00 100%);
+    text-align: center;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-family: "ROBOTECH GP", Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.1em;
+    padding: 0 !important;
+}
+
 .MajorTitles h1, .script h1
 {
     -webkit-background-clip: text;
