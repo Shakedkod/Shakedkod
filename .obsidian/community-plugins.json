@@ -4,7 +4,6 @@
   "obsidian-advanced-slides",
   "calendar",
   "obsidian-completr",
-  "obsidian-excalidraw-plugin",
   "homepage",
   "obsidian-icon-folder",
   "recent-files-obsidian",
@@ -17,5 +16,9 @@
   "better-export-pdf",
   "obsidian-git",
   "obsidian-latex-suite",
-  "code-styler"
+  "chem",
+  "obsidian-functionplot",
+  "ketcher",
+  "code-styler",
+  "obsidian-excalidraw-plugin"
 ]
