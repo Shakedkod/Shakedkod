@@ -1,7 +1,8 @@
 {
   "fileDirections": {
     "00 - School/מדעי המחשב/מחסנית.md": "ltr",
-    "00 - School/מדעי המחשב/תור.md": "ltr"
+    "00 - School/מדעי המחשב/תור.md": "ltr",
+    "00 - School/אנגלית/Project/The Project.md": "ltr"
   },
   "defaultDirection": "rtl",
   "rememberPerFile": true,
