@@ -23,3 +23,5 @@ School trips are an integral part of the school experience who help to create co
 The question of if school trips souled be compulsory is an open one with vastly different arguments.
 
 One argument is …
+
+## 
