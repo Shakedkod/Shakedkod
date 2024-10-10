@@ -24,4 +24,4 @@ The question of if school trips souled be compulsory is an open one with vastly 
 
 One argument is …
 
-## 
+## In your opinion, are friendships important?
