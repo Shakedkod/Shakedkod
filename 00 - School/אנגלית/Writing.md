@@ -30,4 +30,4 @@ One argument is …
 Some people think that friendships are important. others, disagree and feel that family ties are more important. 
 **(17 words, the opening is supposed to be at least 10% of the writing)**
 #### option 2
-Many studies indicate that having meaningful friendships better our lives.
+Many studies indicate that having meaningful friendships better our lives. 
