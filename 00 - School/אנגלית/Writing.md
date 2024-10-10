@@ -25,3 +25,9 @@ The question of if school trips souled be compulsory is an open one with vastly 
 One argument is …
 
 ## In your opinion, are friendships important?
+### opening
+#### option 1
+Some people think that friendships are important. others, disagree and feel that family ties are more important. 
+**(17 words, the opening is supposed to be at least 10% of the writing)**
+#### option 2
+Many studies indicate that having meaningful friendships better our lives.
